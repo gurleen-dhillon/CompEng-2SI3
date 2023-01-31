@@ -1,0 +1,5 @@
+﻿  HashTableQuad.cpp
+C:\Users\gurle\2SI3-Labs\lab5\HashTableQuad.cpp(47,23): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\gurle\2SI3-Labs\lab5\HashTableQuad.cpp(72,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gurle\2SI3-Labs\lab5\HashTableQuad.cpp(140,56): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Lab5.vcxproj -> C:\Users\gurle\2SI3-Labs\lab5\Lab5\x64\Debug\Lab5.exe
